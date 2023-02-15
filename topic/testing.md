@@ -27,6 +27,15 @@
 
 </pre>
 
+<a href="https://doi.org/10.1145/3143561"><img align="left" height="120" src="../asset/d799474.png"></img></a>
+<pre>
+2018 d799474 27p
+  <b><i>Metamorphic Testing</i></b>
+  A Review of Challenges and Opportunities
+    T.Y. Chen, F.C. Kuo, Huai Liu
+
+</pre>
+
 <a href="http://doi.org/10.1007/978-3-030-47147-7_4"><img align="left" height="120" src="../asset/9d25c81.png"></img></a>
 <pre>
 2020 9d25c81 25p
