@@ -9,6 +9,15 @@
 
 </pre>
 
+<a href="https://doi.org/10.1109/TSE.2014.2372785"><img align="left" height="120" src="../asset/64b1960.png"></img></a>
+<pre>
+2015 64b1960 19p
+  <b><i>The Oracle Problem in Software Testing</i></b>
+  A Survey
+    Earl T. Barr, Mark Harman, Phil McMinn
+
+</pre>
+
 <a href="http://doi.org/10.1007/978-3-030-47147-7_4"><img align="left" height="120" src="../asset/9d25c81.png"></img></a>
 <pre>
 2020 9d25c81 25p
