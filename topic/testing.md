@@ -1,5 +1,14 @@
 # Software Testing
 
+<a href="https://doi.org/10.1093/comjnl/25.4.465"><img align="left" height="120" src="../asset/3994c79.png"></img></a>
+<pre>
+1982 3994c79 6p
+  <b><i>On Testing Non-Testable Programs</i></b>
+    Elaine J. Weyuker
+
+
+</pre>
+
 <a href="https://doi.org/10.48550/arXiv.2002.12543"><img align="left" height="120" src="../asset/4578871.png"></img></a>
 <pre>
 1998 4578871 11p
