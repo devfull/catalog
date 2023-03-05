@@ -8,3 +8,12 @@
 
 
 </pre>
+
+<a href="https://doi.org/10.1007/978-3-319-07151-0_8"><img align="left" height="120" src="../asset/aa2f160.png"></img></a>
+<pre>
+2014 aa2f160 17p
+  <b><i>Lightweight Higher-Kinded Polymorphism</i></b>
+    Jeremy Yallop 
+    Leo White
+
+</pre>
