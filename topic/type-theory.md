@@ -17,3 +17,12 @@
     Leo White
 
 </pre>
+
+<a href="https://doi.org/10.1145/3131851.3131868"><img align="left" height="130" src="../asset/f7ff6b7.png"></img></a>
+<pre>
+2017 f7ff6b7 21p
+  <b><i>Defunctionalisation as modular closure conversion</i></b>
+    Ulrich Schöpp
+
+
+</pre>
